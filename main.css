@@ -1,6 +1,8 @@
 
 <style>
-
+body {
+  background-color: black;
+}
   /* Use these classes to style the .card component */
 
   .card {}
